@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "nospawningonice",
 	"version": "${version}",
-	"name": "No Spawning On Ice",
+	"name": "No Spawning On Ice Highways",
 	"description": "Disable all mob spawning on Packed Ice and Blue Ice in The Nether and The End.",
 	"authors": [
 		"RedRam"
 	],
 	"contact": {
 		"homepage": "https://github.com/RedRam567",
-		"sources": "https://github.com/RedRam567/RedRamMinecraftMods"
+		"sources": "https://github.com/RedRam567/RedRamMinecraftMods/tree/main/mods/NoSpawningOnIce"
 	},
 	"license": "MIT",
 	"icon": "assets/nospawningonice/icon.png",

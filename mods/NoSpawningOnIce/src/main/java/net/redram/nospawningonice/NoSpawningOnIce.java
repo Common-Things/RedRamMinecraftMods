@@ -1,6 +1,6 @@
 package net.redram.nospawningonice;
 
-import net.fabricmc.api.ModInitializer;
+import net.fabricmc.api.ModInitializer; // from fabric loader not fabric api
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "enchantableshears",
+	"version": "${version}",
+	"name": "Echantable Shears and Shields",
+	"description": "Enchant shears and shields at enchantment tables, instead of only at anvils.",
+	"authors": [
+		"RedRam"
+	],
+	"contact": {
+		"homepage": "https://github.com/RedRam567",
+		"sources": "https://github.com/RedRam567/RedRamMinecraftMods"
+	},
+	"license": "MIT",
+	"icon": "assets/enchantableshears/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.redram.enchantableshears.EnchantableShears"
+		]
+	},
+	"mixins": [
+		"enchantableshears.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.18",
+		"minecraft": "~1.20.1",
+		"java": ">=17"
+	}
+}

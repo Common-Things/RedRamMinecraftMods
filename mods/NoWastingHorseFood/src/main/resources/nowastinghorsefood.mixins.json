@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.redram.nowastinghorsefood.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"AbstractHorseEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

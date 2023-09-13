@@ -11,3 +11,4 @@ don't have their own fix, in which case the item would be duplicated.
 - Does not fix mules being able to eat golden carrots and showing love particles despite not breeding
 - Does not fix punching and using golden carrots showing love particles again
     - also happens with cows and dogs with wheat and meat, and other animals
+- Pig are unaffected, they already don't waste food
